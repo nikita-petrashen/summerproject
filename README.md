@@ -1,5 +1,5 @@
 # summerproject
-This repo is dedicated to my Skoltech Summer Immersion at Huawei. The repository is split in two parts: one is dedicated to experiments with DBP15K dataset, another part is dedicated to my experiments with new biomedical dataset.
+This repo is dedicated to my Skoltech Summer Immersion at Huawei. The repository is split in two parts: one is dedicated to experiments with DBP15K dataset, another part is dedicated to experiments with new biomedical dataset.
 
 ## DBP15K
 To get data and perform preprocessing run preprocessing/full_preprocessing.sh <br/> 
